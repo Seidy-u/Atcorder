@@ -1,0 +1,1 @@
+for(int i=0; i<s_vec.size(); i++) cout << s_vec[i].first << " " << s_vec[i].second << endl;
